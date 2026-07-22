@@ -1,4 +1,4 @@
-# 📖 What is the AI Web Application Penetration Testing Handbook?
+What is the AI Web Application Penetration Testing Handbook?
 
 The **AI Web Application Penetration Testing Handbook** is an open-source, community-driven knowledge base dedicated to modern Web Application Security and Penetration Testing in the AI era.
 
