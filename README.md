@@ -119,6 +119,17 @@ Built with knowledge from:
 Follow the journey as I explore Web Application Security in the AI era.
 
 ---
+
+
 LinkedIn : https://www.linkedin.com/in/anas-elhwary-901513284/
+
+---
+
+
 Medium : https://medium.com/@anaselhwary47
+
+
+---
+
+
 Facebook : https://www.facebook.com/anas.elhwary.75
