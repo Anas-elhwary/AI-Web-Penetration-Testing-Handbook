@@ -116,4 +116,4 @@ Built with knowledge from:
 
 ---
 
-**Follow the journey as I explore Web Application Security in the AI era. **
+Follow the journey as I explore Web Application Security in the AI era.
