@@ -1,4 +1,4 @@
-# 🕷️ My Web Penetration Testing Journey in the AI Era
+#  My Web Penetration Testing Journey in the AI Era
 
 ## Introduction
 
@@ -12,7 +12,7 @@ This handbook represents my continuous learning journey — documenting everythi
 
 ---
 
-# 🤖 Web Security in the AI Era
+#  Web Security in the AI Era
 
 Artificial Intelligence is rapidly changing the cybersecurity landscape.
 
@@ -48,7 +48,7 @@ A tool can generate a possible vulnerability, but a skilled security professiona
 
 ---
 
-# 🎯 The Purpose of This Handbook
+#  The Purpose of This Handbook
 
 The purpose of the **AI Web Application Penetration Testing Handbook** is to create a structured, practical, and continuously evolving resource that combines:
 
@@ -132,7 +132,7 @@ Each vulnerability includes:
 
 ---
 
-# 📚 Vulnerabilities Covered
+#  Vulnerabilities Covered
 
 The handbook covers modern Web Application Security vulnerabilities, including:
 
